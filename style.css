@@ -1,0 +1,47 @@
+header{
+    height: 300px;
+    background-color: rgb(166, 166, 209);
+    text-align: center;
+    color: rgb(28, 28, 54);
+    padding: 50px;
+    font-size: 50px;
+    background-image: url(https://cdn.shiza-project.com/images/90acc126f5b7012c095b5b2f07bf8f22ecdfe021.webp);
+    background-size: cover;
+}
+
+body{
+    margin: 0px;
+}
+
+
+main{
+display: flex;
+justify-content: center;
+}
+
+.container{
+    background-color: rgba(143, 145, 160, 0.507);
+    width: 80%;
+    padding: 20px;
+}
+
+block1{
+    font-size: 20px;
+    text-align: justify;
+}
+
+block2{
+    text-align: center;
+}
+
+.social img {
+    width: 100px;
+    padding-left: 10px;
+}
+
+.social {
+list-style: none;
+display: flex;
+align-items: center;
+justify-content: center;
+}
